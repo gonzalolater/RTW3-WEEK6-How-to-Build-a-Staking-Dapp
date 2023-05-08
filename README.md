@@ -103,3 +103,10 @@ Join the telegram [support chat 💬](https://t.me/joinchat/KByvmRe5wkR-8F_zz6Aj
 ---
 
 🙏 Please check out our [Gitcoin grant](https://gitcoin.co/grants/2851/scaffold-eth) too!
+
+----------------------------------------------------------------------------------------------------------------------------
+
+# NFT
+![Built an ERC20 staking application](https://user-images.githubusercontent.com/42863568/236948687-79800a54-7b78-4145-8f2b-6176a2f0d689.jpeg)
+https://testnets.opensea.io/assets/goerli/0xf4910c763ed4e47a585e2d34baa9a4b611ae448c/5650374730150659443715928048758275365410007916752074954041965400541779460097
+
